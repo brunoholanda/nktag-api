@@ -8,7 +8,7 @@
     },
     {
         "id": 2,
-        "titulo": "Portao de casa WI-FI",
+        "titulo": "Portão de casa WI-FI",
         "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img5-min.png",
         "link": "https://www.youtube.com/embed/FQQYDgmXFTc"
     },
@@ -20,13 +20,13 @@
     },
     {
         "id": 4,
-        "titulo": "Alexa VS Googlw Homw",
+        "titulo": "Alexa VS Google Home",
         "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img2-min.png",
         "link": "https://www.youtube.com/embed/tzfnlcJqjYQ"
     },
 	{
         "id": 5,
-        "titulo": "A incrivel Maquina de REFRI",
+        "titulo": "A incrível Maquina de REFRI",
         "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img10-min.png",
         "link": "https://www.youtube.com/embed/YMGiZMBldh4"
     },
@@ -44,7 +44,7 @@
     },
 	{
         "id": 8,
-        "titulo": "Plataforma Robotica",
+        "titulo": "Plataforma Robótica",
         "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img4-min.png",
         "link": "https://www.youtube.com/embed/GBttYwh-nik"
     },
@@ -56,7 +56,7 @@
     },
 	{
         "id": 10,
-        "titulo": "Dispensador de Alcool",
+        "titulo": "Dispensador de Álcool",
         "capa": "https://nerdking.net.br/wp-content/uploads/2023/01/img3-min-1.png",
         "link": "https://www.youtube.com/embed/siXLTV5zAyc"
     }
